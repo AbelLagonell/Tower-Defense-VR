@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 645023552, guid: e573fb8946f61694bba16b19ca547deb, type: 3}
+  m_Sprite: {fileID: 904641068, guid: 77c1b6463f99cd24abec7229c27a29af, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -114,11 +114,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32f82ff4ee1f4404ead19e8e7e4d8a82, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.45
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32f82ff4ee1f4404ead19e8e7e4d8a82, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 19.19
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32f82ff4ee1f4404ead19e8e7e4d8a82, type: 3}
       propertyPath: m_LocalRotation.w
@@ -130,11 +130,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32f82ff4ee1f4404ead19e8e7e4d8a82, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32f82ff4ee1f4404ead19e8e7e4d8a82, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 32f82ff4ee1f4404ead19e8e7e4d8a82, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -399,7 +399,7 @@ SphereCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -446,4 +446,4 @@ MonoBehaviour:
   currentAttackCooldown: 0
   spawnedObject: {fileID: 4332806188010617636, guid: 911f669788cf9e34ab25b1d22e417f94, type: 3}
   active: 0
-  projectileSpeed: 1
+  projectileSpeed: 3

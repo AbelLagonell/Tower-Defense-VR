@@ -22,7 +22,7 @@ public class RangeTower : BaseTower {
     private void OnTriggerStay(Collider other) {
         if (!active) return;
         if (!other.CompareTag("Enemy")) return;
-        transform.LookAt(other.transform.position);
+        transform.LookAt(other.transform.position + Vector3.up);
         
         Attack();
         Debug.DrawRay(transform.position, transform.forward * (detectionRadius * transform.localScale.x), Color.red);
