@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 578444649, guid: 7bc6872ecbb33e84b9a898c3f680109b, type: 3}
+    - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.x
       value: 1

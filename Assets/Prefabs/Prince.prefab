@@ -10,7 +10,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3638547962297351381, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_Name
-      value: Sword Variant
+      value: Prince
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -56,6 +68,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 1950943021, guid: 247388909b843f14e9dd74e6dd4ac4a0, type: 3}
+    - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: damage
       value: 3
