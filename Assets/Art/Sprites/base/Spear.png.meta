@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 77c1b6463f99cd24abec7229c27a29af
+guid: 7bc6872ecbb33e84b9a898c3f680109b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,95 +162,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MiniArcherMan_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cce38f30afb4f14ea7df9a2b0731b9d
-      internalID: 904641068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 192
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ac087cd41e7f0c44ab02f08b737267b
-      internalID: -366799237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d706ccef66c2cc489f423fc697286e2
-      internalID: -221705936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 192
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b713dd4a9fe566c478fb1b19ea90d12f
-      internalID: -210657701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_4
+      name: Spear_0
       rect:
         serializedVersion: 2
         x: 0
@@ -265,14 +177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06dac39d9210e92489af5959c2e8f3d5
-      internalID: -548076315
+      spriteID: 7b444668296fa2c499e018204822f3aa
+      internalID: -595706776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_5
+      name: Spear_1
       rect:
         serializedVersion: 2
         x: 32
@@ -287,14 +199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81c2efdfb745ca54cafc487869c356a5
-      internalID: -1178704935
+      spriteID: 305ac7dd0a6b0054eb9a0938ad610814
+      internalID: -1502285189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_6
+      name: Spear_2
       rect:
         serializedVersion: 2
         x: 64
@@ -309,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f2ad2051886ae2489f51d317ba66bff
-      internalID: 1572717650
+      spriteID: 51ebbc68b0c349547bf44e162038cd69
+      internalID: -1697071965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_7
+      name: Spear_3
       rect:
         serializedVersion: 2
         x: 96
@@ -331,18 +243,106 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2e265810da29ff4aaa76a547d3ad531
-      internalID: 30708468
+      spriteID: 45af2e6db10cd89408ab22dba7d171b1
+      internalID: -2141672115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_8
+      name: Spear_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bce2d41ea0d5d4f8e04f866c6d90bf
+      internalID: -586615408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341b52cfc11fc04080a625bd9789a65
+      internalID: -784787068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9569ab19375ca054d9b707a3e202bf3a
+      internalID: -1783091799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15417772052292f46aa0dd06848197e2
+      internalID: -1227413301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_8
       rect:
         serializedVersion: 2
         x: 128
-        y: 160
+        y: 128
         width: 32
         height: 32
       alignment: 9
@@ -353,39 +353,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39aa5d6d98e47a3408894dc9c68f47ed
-      internalID: 1735728834
+      spriteID: 8456a148d7d2bcf4dbf061595268fbed
+      internalID: 1919938521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_9
+      name: Spear_9
       rect:
         serializedVersion: 2
         x: 160
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ca81ec6b1ca9974293562c0376ddd07
-      internalID: -968714190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_10
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 128
         width: 32
         height: 32
@@ -397,58 +375,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfaff2e1f9c6de447abc0ee773a46672
-      internalID: 1583469090
+      spriteID: 1539c34133ccf6a4a8ba575e6dde8ad8
+      internalID: -1784878726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_11
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1667eb09bad9da418335fce34de7f9c
-      internalID: 1165710537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_12
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edc5c1afdd077fd40bb2011d5720c8b8
-      internalID: -1286608938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_13
+      name: Spear_10
       rect:
         serializedVersion: 2
         x: 0
@@ -463,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd60338256edf0b4a8e3b2c397464cda
-      internalID: -1870751071
+      spriteID: 068f17285f43abc44902806ecc2bce5b
+      internalID: 1035709709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_14
+      name: Spear_11
       rect:
         serializedVersion: 2
         x: 32
@@ -485,14 +419,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd6b50f35aea87242b857aa07f286a99
-      internalID: 770828140
+      spriteID: df256e9ea099b404cb442de249918cea
+      internalID: -1699997285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_15
+      name: Spear_12
       rect:
         serializedVersion: 2
         x: 64
@@ -507,18 +441,84 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e203e05bbfaf7714082e4a1b1feba5e9
-      internalID: 1606212676
+      spriteID: 7452995ba6417454db83058281f7f3c9
+      internalID: 1714666392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_16
+      name: Spear_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c2c8055dd7464bb66990d4fcca37e
+      internalID: -1841305947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516e6107f4a8e34b8d78ebc30f882f0
+      internalID: -961581746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f017c64ed8e2ab94e804a0b81b81b6ed
+      internalID: -1203673815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_16
       rect:
         serializedVersion: 2
         x: 96
-        y: 96
+        y: 64
         width: 32
         height: 32
       alignment: 9
@@ -529,18 +529,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb1a7369285c4e24f9d1cf84675c5866
-      internalID: 687543308
+      spriteID: 7bf21b87f831d9b489d05768f7be042b
+      internalID: -309654653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_17
+      name: Spear_17
       rect:
         serializedVersion: 2
         x: 128
-        y: 96
+        y: 64
         width: 32
         height: 32
       alignment: 9
@@ -551,18 +551,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 400074071f1f1e044814564e5512177a
-      internalID: 1306378644
+      spriteID: feaab65f9cebabe4bae1de0f29d6e3c1
+      internalID: 1450361383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_18
+      name: Spear_18
       rect:
         serializedVersion: 2
         x: 160
-        y: 96
+        y: 64
         width: 32
         height: 32
       alignment: 9
@@ -573,18 +573,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76f7096bf512dbd42857fc77182c9daa
-      internalID: -408024673
+      spriteID: ce9351a8c2858b94db141dbaec7db0f5
+      internalID: 1771294983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_19
+      name: Spear_19
       rect:
         serializedVersion: 2
         x: 192
-        y: 96
+        y: 64
         width: 32
         height: 32
       alignment: 9
@@ -595,106 +595,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab7a5b46c6f93294e828cfc57a84dab4
-      internalID: -576740145
+      spriteID: e6405144d66d61a428da3e2f24a9c946
+      internalID: 706084699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_20
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6707b31622e4d04cb7ceac1a0587ce7
-      internalID: -554265255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_21
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a315012f74473e4478da9392a8b0d701
-      internalID: 487091508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_22
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adc9209b38b6b314a9c221dc4c5d77de
-      internalID: 930362079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_23
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d395ddba8387a944b9548ecd5750fc0
-      internalID: -2040776872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_24
+      name: Spear_20
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 32
         width: 32
         height: 32
       alignment: 9
@@ -705,18 +617,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92f3d0f7f2c3dd74dafd0b37547fbb14
-      internalID: -1368753770
+      spriteID: c4af904ed56cf9440a8c48f9ae680289
+      internalID: -1666882653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_25
+      name: Spear_21
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 32
         width: 32
         height: 32
       alignment: 9
@@ -727,18 +639,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 737f6d06dea5da040a9472ca5be3ac1b
-      internalID: -1683976253
+      spriteID: 9a4feac44991260479da3dee2d51769f
+      internalID: -1900090112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_26
+      name: Spear_22
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 32
         width: 32
         height: 32
       alignment: 9
@@ -749,18 +661,84 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0554ddf5b1c28534eb3e26bd44c0aedc
-      internalID: -1303546055
+      spriteID: e9259454dce458c42a097db02547b6d9
+      internalID: -1967607717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_27
+      name: Spear_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676955ae48543f945aaaff0fa2a0baaa
+      internalID: -824193023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de014c90e4ac345bf3e9f551deb44b
+      internalID: -1303255280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd81155981ed3429808f2134a96273
+      internalID: -833412114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear_26
       rect:
         serializedVersion: 2
         x: 96
-        y: 64
+        y: 0
         width: 32
         height: 32
       alignment: 9
@@ -771,127 +749,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57bf0b5de859fd340bbc91f36fe7ee71
-      internalID: 1260272529
+      spriteID: 49721d6b7149527438d5c05d7d479e4f
+      internalID: -154504909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniArcherMan_28
+      name: Spear_27
       rect:
         serializedVersion: 2
         x: 128
-        y: 64
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2c8e74aa77d95940a62fc0e90a55847
-      internalID: -2012832702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_29
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3da31ce26eda5e74a87e11331d559490
-      internalID: 1246140666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_30
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc92d4000e63aef4ab0cc8cc47bd219d
-      internalID: 9977079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_31
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cadfa59103f8469409e896086f3d253f
-      internalID: -1633211414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_32
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bced14af177a552469afb231900d1683
-      internalID: 732019065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_33
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
         width: 32
         height: 32
@@ -903,74 +771,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75a7c15571f5df54389ad072161d8f56
-      internalID: 427234274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_34
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75187354522475348a94330194ca8cc5
-      internalID: 1626031375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_35
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9077d411f67382f459349ea447ee1828
-      internalID: 530167407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniArcherMan_36
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b796e0a726a1410439345a6e57774b53
-      internalID: 176578135
+      spriteID: 66a3dff300b58be42854779361000f8e
+      internalID: 971702226
       vertices: []
       indices: 
       edges: []
@@ -979,7 +781,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e98caa696f251874792f2b1e1030dadc
+    spriteID: f52589c9503bebe4e967d4d2a91d3c2c
     internalID: 0
     vertices: []
     indices: 
@@ -989,43 +791,34 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MiniArcherMan_0: 904641068
-      MiniArcherMan_1: -366799237
-      MiniArcherMan_10: 1583469090
-      MiniArcherMan_11: 1165710537
-      MiniArcherMan_12: -1286608938
-      MiniArcherMan_13: -1870751071
-      MiniArcherMan_14: 770828140
-      MiniArcherMan_15: 1606212676
-      MiniArcherMan_16: 687543308
-      MiniArcherMan_17: 1306378644
-      MiniArcherMan_18: -408024673
-      MiniArcherMan_19: -576740145
-      MiniArcherMan_2: -221705936
-      MiniArcherMan_20: -554265255
-      MiniArcherMan_21: 487091508
-      MiniArcherMan_22: 930362079
-      MiniArcherMan_23: -2040776872
-      MiniArcherMan_24: -1368753770
-      MiniArcherMan_25: -1683976253
-      MiniArcherMan_26: -1303546055
-      MiniArcherMan_27: 1260272529
-      MiniArcherMan_28: -2012832702
-      MiniArcherMan_29: 1246140666
-      MiniArcherMan_3: -210657701
-      MiniArcherMan_30: 9977079
-      MiniArcherMan_31: -1633211414
-      MiniArcherMan_32: 732019065
-      MiniArcherMan_33: 427234274
-      MiniArcherMan_34: 1626031375
-      MiniArcherMan_35: 530167407
-      MiniArcherMan_36: 176578135
-      MiniArcherMan_4: -548076315
-      MiniArcherMan_5: -1178704935
-      MiniArcherMan_6: 1572717650
-      MiniArcherMan_7: 30708468
-      MiniArcherMan_8: 1735728834
-      MiniArcherMan_9: -968714190
+      Spear_0: -595706776
+      Spear_1: -1502285189
+      Spear_10: 1035709709
+      Spear_11: -1699997285
+      Spear_12: 1714666392
+      Spear_13: -1841305947
+      Spear_14: -961581746
+      Spear_15: -1203673815
+      Spear_16: -309654653
+      Spear_17: 1450361383
+      Spear_18: 1771294983
+      Spear_19: 706084699
+      Spear_2: -1697071965
+      Spear_20: -1666882653
+      Spear_21: -1900090112
+      Spear_22: -1967607717
+      Spear_23: -824193023
+      Spear_24: -1303255280
+      Spear_25: -833412114
+      Spear_26: -154504909
+      Spear_27: 971702226
+      Spear_3: -2141672115
+      Spear_4: -586615408
+      Spear_5: -784787068
+      Spear_6: -1783091799
+      Spear_7: -1227413301
+      Spear_8: 1919938521
+      Spear_9: -1784878726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

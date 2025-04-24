@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 247388909b843f14e9dd74e6dd4ac4a0
+guid: 6c930fd45c96071489dcc7bccd05f7b5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,7 +162,227 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MiniPrinceMan_0
+      name: Mage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97e86027b90fcc459da6b931cc424d3
+      internalID: -193502875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e932bc8aab77a4a478ec5f49942f5a4a
+      internalID: 1456631622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba167ede6d1c3dd4283323d47c92c5f8
+      internalID: -1507835588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49addad98fc5c9b409b7a3d6519b1afa
+      internalID: 831348793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059326b21b7b9624a8b47595b89a7d4c
+      internalID: 931267056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2a927dca388f4983750c2476bfd59
+      internalID: -1167152294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff75d60b81abe42a9a09e40de08f1c
+      internalID: 1305959457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697dd7a936467c46ba4fca19f3870c4
+      internalID: 1573538039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08ae5a0f36726489f3f0a902215041
+      internalID: -674582964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9ec0a7be70f34fbeb0e3f15a47b8a
+      internalID: 1766339179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_10
       rect:
         serializedVersion: 2
         x: 0
@@ -177,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f2b9e9d8510d7a48b666b1be6ac47e2
-      internalID: 1950943021
+      spriteID: 5e05157241ea63949a51862fb5720247
+      internalID: 1414420195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_1
+      name: Mage_11
       rect:
         serializedVersion: 2
         x: 32
@@ -199,14 +419,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b21c778c756959e4486317520c057b12
-      internalID: -1701850452
+      spriteID: 4cc37c5a4e648a54eb56b10934cfd94c
+      internalID: 897241813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_2
+      name: Mage_12
       rect:
         serializedVersion: 2
         x: 64
@@ -221,36 +441,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bf3e50e1a002d0429c005004bf6dd58
-      internalID: -1304375681
+      spriteID: bedb305613218654d8618eea4a6e9aed
+      internalID: -1830358805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f31db172061bf224984d57ffeeb2fcc6
-      internalID: -286652600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniPrinceMan_4
+      name: Mage_13
       rect:
         serializedVersion: 2
         x: 0
@@ -265,14 +463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50cdcd94ec995f84cb7d1e05255bade5
-      internalID: 32805921
+      spriteID: 6872387b4d07bff498d8108a48a5d276
+      internalID: -1026939877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_5
+      name: Mage_14
       rect:
         serializedVersion: 2
         x: 32
@@ -287,14 +485,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37fc0af86234b5f4b84c768ed72b06f6
-      internalID: 1484119363
+      spriteID: 360f79fd19c8aed47917e61d768a4164
+      internalID: 194860562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_6
+      name: Mage_15
       rect:
         serializedVersion: 2
         x: 64
@@ -309,14 +507,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89fcd1c5be0687e47a14233e2f43b9f0
-      internalID: 1613240098
+      spriteID: 4866c20fc23ab2a4a849154540341ea7
+      internalID: 811082382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_7
+      name: Mage_16
       rect:
         serializedVersion: 2
         x: 96
@@ -331,14 +529,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c085da57b8c61524ba647da4c010249b
-      internalID: 2034444812
+      spriteID: beefbf259784e774b9dcfb8f115afbfe
+      internalID: 1682511440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_8
+      name: Mage_17
       rect:
         serializedVersion: 2
         x: 128
@@ -353,14 +551,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d07ad1169301579488a05a86aad577eb
-      internalID: 960817362
+      spriteID: 2f87e49221d09554c99a76913736c485
+      internalID: 176526311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_9
+      name: Mage_18
       rect:
         serializedVersion: 2
         x: 160
@@ -375,14 +573,124 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32d1b7a9243e77d49b41486e7b6c4f9f
-      internalID: -180845649
+      spriteID: 3edd2843e62bf96488b06ec86b9f5f04
+      internalID: -515679345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_10
+      name: Mage_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db122609b09f8864bac640b84c0212fd
+      internalID: -1229753847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c313194de6da44a88be232610a71d
+      internalID: -1682761883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9487c1ef6a344d83b78963cb53659
+      internalID: 1934929458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b85086d9e248c42bf1cd2ed45b5ed1
+      internalID: 2068183192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a0c4625418f9499e78d991b50e65c
+      internalID: -1434066772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_24
       rect:
         serializedVersion: 2
         x: 0
@@ -397,14 +705,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dd809a01ec5f7a4c9cbd02f584b3d02
-      internalID: 153754517
+      spriteID: 657964d62563dd74f88d918f50d065fd
+      internalID: 406714482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_11
+      name: Mage_25
       rect:
         serializedVersion: 2
         x: 32
@@ -419,14 +727,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71ef0aea0c3d226498c7e63cbb8c6610
-      internalID: -2078693995
+      spriteID: 1b1f78f40f3015041881ef9330e90b44
+      internalID: -1851913717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_12
+      name: Mage_26
       rect:
         serializedVersion: 2
         x: 64
@@ -441,14 +749,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63406574d61e8af4ebae82202adbafe7
-      internalID: 2144656087
+      spriteID: f636fe0e77a73da4bb84611e035d30ab
+      internalID: 2003446595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_13
+      name: Mage_27
       rect:
         serializedVersion: 2
         x: 96
@@ -463,14 +771,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b31c48acdd4131345b85c25df8145664
-      internalID: 779350348
+      spriteID: 508dfdc450dce0043a12d0ce44879378
+      internalID: -1295956305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_14
+      name: Mage_28
       rect:
         serializedVersion: 2
         x: 128
@@ -485,14 +793,102 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23787a082e4082f4482f50494ab4c2c5
-      internalID: 1305400568
+      spriteID: 2566225418c8b154594c7403fb1d31f5
+      internalID: 204979149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_15
+      name: Mage_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60f97becd56134f9874e24bc9dc63d
+      internalID: -1757171087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f76faab0001b24384626509ef46d9e
+      internalID: -1587703537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02545d6f13cfddf498fce39b27873341
+      internalID: 668450614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b41252ce61d9459bebe84c5ab6e57
+      internalID: -274343800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_33
       rect:
         serializedVersion: 2
         x: 0
@@ -507,14 +903,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c25155b8bbc502438f871d350655b9c
-      internalID: -1883039584
+      spriteID: 8353f4648f1841243b7e40140f91aaaa
+      internalID: -1765815161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_16
+      name: Mage_34
       rect:
         serializedVersion: 2
         x: 32
@@ -529,14 +925,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 093b6aabb0031514fa4deb9ce9ca1d6c
-      internalID: -845955218
+      spriteID: 73e866e492d156448a899a19bf764835
+      internalID: 1281994705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_17
+      name: Mage_35
       rect:
         serializedVersion: 2
         x: 64
@@ -551,14 +947,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0b8a19c5f2e7a74f8c5df986037b6e7
-      internalID: 1633292737
+      spriteID: 2a878295637f59b43a3fe5a2cc5baba4
+      internalID: 466323327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_18
+      name: Mage_36
       rect:
         serializedVersion: 2
         x: 96
@@ -573,14 +969,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec9dd2e961425d24f9f76ab6a6781ed8
-      internalID: 445764761
+      spriteID: 7af0775802244df468cf2e4afe6b2919
+      internalID: 1898210858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_19
+      name: Mage_37
       rect:
         serializedVersion: 2
         x: 128
@@ -595,14 +991,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: effd7863bc3056247b06107698cb3e2a
-      internalID: 2025056239
+      spriteID: 10f5bde831a4e4349af4602f0cf4fed3
+      internalID: 549846179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_20
+      name: Mage_38
       rect:
         serializedVersion: 2
         x: 160
@@ -617,14 +1013,80 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7150f040ce3495141b7adef47d9de9a3
-      internalID: -1258969995
+      spriteID: 1e708ef1b028ad744ae7ee1bdc79f142
+      internalID: -1026266801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_21
+      name: Mage_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693659abf03fe094982a3c1dac3f61c7
+      internalID: -630330482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b578849a596fc4c81ad77aaa6425e2
+      internalID: -1333197767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86479e9cebd75df4ba583ec2bb83f797
+      internalID: 1127654122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_42
       rect:
         serializedVersion: 2
         x: 0
@@ -639,14 +1101,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53882f9fb0a500b489ced646d67a06af
-      internalID: 2117161487
+      spriteID: f8c94217b2ae2e741b2f302415b0683a
+      internalID: 795962612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_22
+      name: Mage_43
       rect:
         serializedVersion: 2
         x: 32
@@ -661,36 +1123,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c02dce59575e77941bc6b39f2183ee1a
-      internalID: 1092633478
+      spriteID: af601c16d56ff554c882df56c2a88ec8
+      internalID: 625034191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_23
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.2}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 711aa263bb07b0747aa4580caa707986
-      internalID: -1265793759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniPrinceMan_24
+      name: Mage_44
       rect:
         serializedVersion: 2
         x: 0
@@ -705,14 +1145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9539c10b2ae7e04fb1e04b21a48f259
-      internalID: 460746672
+      spriteID: b60d08213ad6b9e48a4bff530b3199f6
+      internalID: 795126612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_25
+      name: Mage_45
       rect:
         serializedVersion: 2
         x: 32
@@ -727,14 +1167,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7edcae7ca55dba458ca07e2dc5e2f28
-      internalID: -7215085
+      spriteID: 326e76cd977f6c04fa2f87d240582378
+      internalID: -1853968271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_26
+      name: Mage_46
       rect:
         serializedVersion: 2
         x: 64
@@ -749,14 +1189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf81441030df03c4abf3ab8262e92cb7
-      internalID: 686672408
+      spriteID: e89323f19fe576847931ad122dbee407
+      internalID: 594340694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_27
+      name: Mage_47
       rect:
         serializedVersion: 2
         x: 96
@@ -771,14 +1211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55462b791acfe3949b8013677b607696
-      internalID: -1140926
+      spriteID: 37abec14a423aa7499daf47924ebe1bb
+      internalID: -36408926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_28
+      name: Mage_48
       rect:
         serializedVersion: 2
         x: 128
@@ -793,14 +1233,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a49b6f89cc56764289338b56543a894
-      internalID: 549936370
+      spriteID: e0b0499571a6f7f499dbb7ccb1bcff3d
+      internalID: 1642115519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniPrinceMan_29
+      name: Mage_49
       rect:
         serializedVersion: 2
         x: 160
@@ -815,8 +1255,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67bd405916f58f04a80c89844ee7faf9
-      internalID: 221904929
+      spriteID: 2e8cbfa63bf364d4ab5ca3f2491e523a
+      internalID: 215449047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0953daf941f6b644b6e5e8ffdb9ee3a
+      internalID: -2138587859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c5cecb1c25a042ae715bc18ccb2ec
+      internalID: -836435785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac955e1cf072d2e4096fc1d1b51cd390
+      internalID: -545323650
       vertices: []
       indices: 
       edges: []
@@ -825,7 +1331,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d9992b1e7e7059d4d9f46fe24b310c31
+    spriteID: db976a7e300c4294d844372ff38331c1
     internalID: 0
     vertices: []
     indices: 
@@ -835,36 +1341,59 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MiniPrinceMan_0: 1950943021
-      MiniPrinceMan_1: -1701850452
-      MiniPrinceMan_10: 153754517
-      MiniPrinceMan_11: -2078693995
-      MiniPrinceMan_12: 2144656087
-      MiniPrinceMan_13: 779350348
-      MiniPrinceMan_14: 1305400568
-      MiniPrinceMan_15: -1883039584
-      MiniPrinceMan_16: -845955218
-      MiniPrinceMan_17: 1633292737
-      MiniPrinceMan_18: 445764761
-      MiniPrinceMan_19: 2025056239
-      MiniPrinceMan_2: -1304375681
-      MiniPrinceMan_20: -1258969995
-      MiniPrinceMan_21: 2117161487
-      MiniPrinceMan_22: 1092633478
-      MiniPrinceMan_23: -1265793759
-      MiniPrinceMan_24: 460746672
-      MiniPrinceMan_25: -7215085
-      MiniPrinceMan_26: 686672408
-      MiniPrinceMan_27: -1140926
-      MiniPrinceMan_28: 549936370
-      MiniPrinceMan_29: 221904929
-      MiniPrinceMan_3: -286652600
-      MiniPrinceMan_4: 32805921
-      MiniPrinceMan_5: 1484119363
-      MiniPrinceMan_6: 1613240098
-      MiniPrinceMan_7: 2034444812
-      MiniPrinceMan_8: 960817362
-      MiniPrinceMan_9: -180845649
+      Mage_0: -193502875
+      Mage_1: 1456631622
+      Mage_10: 1414420195
+      Mage_11: 897241813
+      Mage_12: -1830358805
+      Mage_13: -1026939877
+      Mage_14: 194860562
+      Mage_15: 811082382
+      Mage_16: 1682511440
+      Mage_17: 176526311
+      Mage_18: -515679345
+      Mage_19: -1229753847
+      Mage_2: -1507835588
+      Mage_20: -1682761883
+      Mage_21: 1934929458
+      Mage_22: 2068183192
+      Mage_23: -1434066772
+      Mage_24: 406714482
+      Mage_25: -1851913717
+      Mage_26: 2003446595
+      Mage_27: -1295956305
+      Mage_28: 204979149
+      Mage_29: -1757171087
+      Mage_3: 831348793
+      Mage_30: -1587703537
+      Mage_31: 668450614
+      Mage_32: -274343800
+      Mage_33: -1765815161
+      Mage_34: 1281994705
+      Mage_35: 466323327
+      Mage_36: 1898210858
+      Mage_37: 549846179
+      Mage_38: -1026266801
+      Mage_39: -630330482
+      Mage_4: 931267056
+      Mage_40: -1333197767
+      Mage_41: 1127654122
+      Mage_42: 795962612
+      Mage_43: 625034191
+      Mage_44: 795126612
+      Mage_45: -1853968271
+      Mage_46: 594340694
+      Mage_47: -36408926
+      Mage_48: 1642115519
+      Mage_49: 215449047
+      Mage_5: -1167152294
+      Mage_50: -2138587859
+      Mage_51: -836435785
+      Mage_52: -545323650
+      Mage_6: 1305959457
+      Mage_7: 1573538039
+      Mage_8: -674582964
+      Mage_9: 1766339179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
