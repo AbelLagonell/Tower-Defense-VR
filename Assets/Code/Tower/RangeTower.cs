@@ -29,4 +29,8 @@ public class RangeTower : BaseTower {
     }
 
     protected override void OnDeath() { }
+
+    public void ChangeProjectileSpeed(float newProjectileSpeed) {
+        projectileSpeed = newProjectileSpeed;
+    }
 }

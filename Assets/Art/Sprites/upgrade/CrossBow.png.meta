@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc9a0561b2fc00f419357f53985abd04
+guid: 97ed10588370df14aaf71bbdeb93a81c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,7 +162,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MiniHorseMan_0
+      name: CrossBow_0
       rect:
         serializedVersion: 2
         x: 0
@@ -170,21 +170,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07fecec7829b5bb47bb43dad6e9ce92d
-      internalID: -957681755
+      spriteID: c383b3ecf09406e43b084b09080c324e
+      internalID: -383291516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_1
+      name: CrossBow_1
       rect:
         serializedVersion: 2
         x: 32
@@ -192,21 +192,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e4acf31b5a03a54592a22af76db45c4
-      internalID: -698131556
+      spriteID: 8dc9ec4a8690af74e9276dd814cc55b3
+      internalID: 1162362679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_2
+      name: CrossBow_2
       rect:
         serializedVersion: 2
         x: 64
@@ -214,21 +214,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d40d59e41357aa49901fb1471c3b71e
-      internalID: -1457159249
+      spriteID: 763bf4522fc4cac41a999d6377b645fd
+      internalID: 116505843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_3
+      name: CrossBow_3
       rect:
         serializedVersion: 2
         x: 96
@@ -236,439 +236,439 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f39d45d3736a6e74bae2909c1bdda75a
-      internalID: -1529530462
+      spriteID: e47edfaec7f683c46a9c92384febff86
+      internalID: 168588192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_4
+      name: CrossBow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5735e0b5df2bc4691e1249ff6929e3
+      internalID: 1837611727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b7307a40ae2c4429f37271757a6e9b
+      internalID: -1608742039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507deec74bfb1bd46befecd6dd491358
+      internalID: 1857388614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53ad903f4ba604f88e257c0dc569e5
+      internalID: -963360002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_8
       rect:
         serializedVersion: 2
         x: 128
-        y: 192
+        y: 160
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b680c691d31e984cad650ec14aeecc7
-      internalID: 1057276502
+      spriteID: 2517a6a6d0e3b6c47977b5010c470544
+      internalID: 558591548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_5
+      name: CrossBow_9
       rect:
         serializedVersion: 2
         x: 160
-        y: 192
+        y: 160
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd66d456e398faa4aacf29fbb16bf9e9
-      internalID: 869361243
+      spriteID: 9ae2619909e746a4985106e9224443c2
+      internalID: 1608772362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_6
+      name: CrossBow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cbd61c66b3b6d46b0217a7e1f353c2
+      internalID: 720516761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e1009a1a76b84d8768390c34c5ce0
+      internalID: -1963218534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763178caef7e8724fadb254fa881139b
+      internalID: 1907623516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2717b29794a0934ea24c593f3349f12
+      internalID: -1199744718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526bea57e2ffbc744864a51aba8fd7f4
+      internalID: 1390552688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb78ff7a70d94fc48abf9d69c0d2d886
+      internalID: 1361584333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c327a40d4e5c4eb8e622ab72de3f6
+      internalID: -848996520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54bd2e91fb08441960545797000082
+      internalID: -1725310339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be841558e0cc1419dfe9c9eca942f3
+      internalID: 418399673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_19
       rect:
         serializedVersion: 2
         x: 192
-        y: 192
+        y: 96
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a18cd65a28ed4b34cbd6b7e0811f6f8c
-      internalID: 289219620
+      spriteID: 2cc307e3b98bd56409d86533ab278fe0
+      internalID: 900339587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_7
+      name: CrossBow_20
       rect:
         serializedVersion: 2
         x: 224
-        y: 192
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 733b37b247655d445a6f501637225fae
-      internalID: -909336211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c38824e076cacb40ac0f5774d705714
-      internalID: -1106712368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_9
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64f7dba893caef14c92cadac80ea298a
-      internalID: -182232861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_10
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 405d749aea856c64e8e7b94b148441a0
-      internalID: 1778080237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_11
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7187f77a41e91a442b4717f6337a12b5
-      internalID: -1382087106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_12
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8055391f47b5ac741858e4e3436ddf1f
-      internalID: 1921215933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_13
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd1bbde60e77c9441943e1bef69f37b4
-      internalID: 343990165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_14
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49ec34ab68b36054d831e5787527c2ea
-      internalID: 807692412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_15
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7167243c388cae649bf1020f6a604858
-      internalID: 1548101851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_16
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cc4f4f011ebbf24fa60800f0d68fa5b
-      internalID: -1717906340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_17
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20f023cd4c532a748b9a00fa4110dfce
-      internalID: -748562702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_18
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e1a75b06d06c9b40a60184e9ad85f57
-      internalID: -1684503377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_19
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e3ed011516b14434d9cc2c565fa4e3e9
-      internalID: -255699909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_20
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 96
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab2b8c3b076e83d40a10ae62ecb67a34
-      internalID: 1520078268
+      spriteID: b3f56688edc754340b2c0d3372f4ca9c
+      internalID: -753608994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_21
+      name: CrossBow_21
       rect:
         serializedVersion: 2
-        x: 32
+        x: 256
         y: 96
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20b8002fcd5e65248ad192640d344c30
-      internalID: 1919191998
+      spriteID: 6169038691a9c4b4981e1440902b53b2
+      internalID: -1676809693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_22
+      name: CrossBow_22
       rect:
         serializedVersion: 2
-        x: 64
+        x: 288
         y: 96
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f3185bd1456ee940b515463fd9f4b40
-      internalID: 1007567753
+      spriteID: 4abbcd70867155449a1b76a9e7731879
+      internalID: 52888223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_23
+      name: CrossBow_23
       rect:
         serializedVersion: 2
         x: 0
@@ -676,21 +676,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86953b50cc442d74ebc10f2081eced37
-      internalID: 675770266
+      spriteID: 35dbcf372c9ffd3428d700262ddb95a7
+      internalID: -578683643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_24
+      name: CrossBow_24
       rect:
         serializedVersion: 2
         x: 32
@@ -698,21 +698,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b12350a407f6d740b8227a16c64b820
-      internalID: -1367306616
+      spriteID: ef5426cdcde201b429cec483c953a34a
+      internalID: -814787460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_25
+      name: CrossBow_25
       rect:
         serializedVersion: 2
         x: 64
@@ -720,21 +720,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 792ad4e207d65684fb4922534b430595
-      internalID: -1720884588
+      spriteID: 5eccb8f4cf5afb84ab4435c71ed1c913
+      internalID: 674831686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_26
+      name: CrossBow_26
       rect:
         serializedVersion: 2
         x: 96
@@ -742,87 +742,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 440ffcd8f28d3f24ba1a9739fefc7a82
-      internalID: -71198261
+      spriteID: 5be92365e84605246866573d74201083
+      internalID: 1649754486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_27
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15e21a329a8b2944e97a6d9a0c6dd80a
-      internalID: 1670104882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_28
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b214ef4a84ea37e4ebbc84b6773356df
-      internalID: -1328810698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_29
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18763c1f8dbd6874c8b22f6565ee4c2d
-      internalID: -1682291217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_30
+      name: CrossBow_27
       rect:
         serializedVersion: 2
         x: 0
@@ -830,21 +764,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 785ac326b2f98fd46924a7ce150b8109
-      internalID: -302485825
+      spriteID: 4b7345303b3b1804aae290a054ca2022
+      internalID: -368316088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_31
+      name: CrossBow_28
       rect:
         serializedVersion: 2
         x: 32
@@ -852,21 +786,43 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce1da1694eec4894a97b3d4e76fc9d49
-      internalID: -1903780259
+      spriteID: 7db8aa4b2a5bc284796ab7bc6aa6d1ac
+      internalID: -1817068516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_32
+      name: CrossBow_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce6fb8ca7fdcd34da9c57efdb23aed4
+      internalID: 2038357205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossBow_30
       rect:
         serializedVersion: 2
         x: 0
@@ -874,21 +830,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 366d7b43c693fc847a05ebec54fd4660
-      internalID: -1194451091
+      spriteID: efa9a7d7a38b02042908028c67b67164
+      internalID: -815646256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_33
+      name: CrossBow_31
       rect:
         serializedVersion: 2
         x: 32
@@ -896,21 +852,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c95a3d726ecef3d49879ef2bc47ccf95
-      internalID: -582644669
+      spriteID: d958a663a3063554892a431a283189d0
+      internalID: -416372111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_34
+      name: CrossBow_32
       rect:
         serializedVersion: 2
         x: 64
@@ -918,21 +874,21 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f1f461d6063b846abfb40dc7de22b6
-      internalID: -358850367
+      spriteID: 7eb742ba451f24642a47f7a6555579c9
+      internalID: -991319720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiniHorseMan_35
+      name: CrossBow_33
       rect:
         serializedVersion: 2
         x: 96
@@ -940,59 +896,15 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 9
-      pivot: {x: 0.5, y: 0.3}
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e10ed5052d0bb3947a00a621bf5c6a2b
-      internalID: 985411068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_36
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 558b257ea44215748bc56ec38a197566
-      internalID: -882341741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiniHorseMan_37
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.3}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02bea7c389b0c2d408645015a802b1b8
-      internalID: -615002126
+      spriteID: 8cb124a3db089554cbc3a97dba2c66ff
+      internalID: 1925235426
       vertices: []
       indices: 
       edges: []
@@ -1001,7 +913,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5d3479dfdc29e5b46acf4ac37e95dc81
+    spriteID: 1444486321d392b4eae8de2555110336
     internalID: 0
     vertices: []
     indices: 
@@ -1011,44 +923,40 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MiniHorseMan_0: -957681755
-      MiniHorseMan_1: -698131556
-      MiniHorseMan_10: 1778080237
-      MiniHorseMan_11: -1382087106
-      MiniHorseMan_12: 1921215933
-      MiniHorseMan_13: 343990165
-      MiniHorseMan_14: 807692412
-      MiniHorseMan_15: 1548101851
-      MiniHorseMan_16: -1717906340
-      MiniHorseMan_17: -748562702
-      MiniHorseMan_18: -1684503377
-      MiniHorseMan_19: -255699909
-      MiniHorseMan_2: -1457159249
-      MiniHorseMan_20: 1520078268
-      MiniHorseMan_21: 1919191998
-      MiniHorseMan_22: 1007567753
-      MiniHorseMan_23: 675770266
-      MiniHorseMan_24: -1367306616
-      MiniHorseMan_25: -1720884588
-      MiniHorseMan_26: -71198261
-      MiniHorseMan_27: 1670104882
-      MiniHorseMan_28: -1328810698
-      MiniHorseMan_29: -1682291217
-      MiniHorseMan_3: -1529530462
-      MiniHorseMan_30: -302485825
-      MiniHorseMan_31: -1903780259
-      MiniHorseMan_32: -1194451091
-      MiniHorseMan_33: -582644669
-      MiniHorseMan_34: -358850367
-      MiniHorseMan_35: 985411068
-      MiniHorseMan_36: -882341741
-      MiniHorseMan_37: -615002126
-      MiniHorseMan_4: 1057276502
-      MiniHorseMan_5: 869361243
-      MiniHorseMan_6: 289219620
-      MiniHorseMan_7: -909336211
-      MiniHorseMan_8: -1106712368
-      MiniHorseMan_9: -182232861
+      CrossBow_0: -383291516
+      CrossBow_1: 1162362679
+      CrossBow_10: 720516761
+      CrossBow_11: -1963218534
+      CrossBow_12: 1907623516
+      CrossBow_13: -1199744718
+      CrossBow_14: 1390552688
+      CrossBow_15: 1361584333
+      CrossBow_16: -848996520
+      CrossBow_17: -1725310339
+      CrossBow_18: 418399673
+      CrossBow_19: 900339587
+      CrossBow_2: 116505843
+      CrossBow_20: -753608994
+      CrossBow_21: -1676809693
+      CrossBow_22: 52888223
+      CrossBow_23: -578683643
+      CrossBow_24: -814787460
+      CrossBow_25: 674831686
+      CrossBow_26: 1649754486
+      CrossBow_27: -368316088
+      CrossBow_28: -1817068516
+      CrossBow_29: 2038357205
+      CrossBow_3: 168588192
+      CrossBow_30: -815646256
+      CrossBow_31: -416372111
+      CrossBow_32: -991319720
+      CrossBow_33: 1925235426
+      CrossBow_4: 1837611727
+      CrossBow_5: -1608742039
+      CrossBow_6: 1857388614
+      CrossBow_7: -963360002
+      CrossBow_8: 558591548
+      CrossBow_9: 1608772362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
