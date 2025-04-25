@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.74
+      value: 7.19
       objectReference: {fileID: 0}
     - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -22,7 +22,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 14.18
+      value: 20.003012
       objectReference: {fileID: 0}
     - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -55,38 +55,30 @@ PrefabInstance:
     - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -595706776, guid: 7bc6872ecbb33e84b9a898c3f680109b, type: 3}
+      objectReference: {fileID: 578444649, guid: 7bc6872ecbb33e84b9a898c3f680109b, type: 3}
     - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
-      propertyPath: m_WasSpriteAssigned
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: hitboxSize.x
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
-      propertyPath: hitboxSize.x
-      value: 4.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.y
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.z
-      value: 0.8
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxOffset.y
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: detectionRadius
       value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
-      propertyPath: upgradeSprite
-      value: 
-      objectReference: {fileID: 1783210802, guid: ea53103d42af5324d9b8dd9a9a26a066, type: 3}
-    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
-      propertyPath: onUpgrade.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_FloatArgument
-      value: 6.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

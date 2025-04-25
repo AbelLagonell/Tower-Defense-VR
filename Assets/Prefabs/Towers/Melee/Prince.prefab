@@ -13,8 +13,20 @@ PrefabInstance:
       value: Prince
       objectReference: {fileID: 0}
     - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.9
+      value: 11.68
       objectReference: {fileID: 0}
     - target: {fileID: 4122316158852671087, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -55,35 +67,27 @@ PrefabInstance:
     - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -107470582, guid: 247388909b843f14e9dd74e6dd4ac4a0, type: 3}
+      objectReference: {fileID: 1950943021, guid: 247388909b843f14e9dd74e6dd4ac4a0, type: 3}
     - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 1
-      objectReference: {fileID: 0}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: damage
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.x
-      value: 3
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.y
-      value: 2
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.z
-      value: 0.8
+      value: 0.2
       objectReference: {fileID: 0}
-    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
-      propertyPath: upgradeDamage
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
-      propertyPath: upgradeSprite
-      value: 
-      objectReference: {fileID: 1155909735, guid: 1e4cf6e759cf5ec4fa79d499036989a4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
