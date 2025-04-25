@@ -4,6 +4,8 @@ public abstract class Entity : MonoBehaviour {
     public int health = 10;
     public int maxHealth = 10;
 
+    public static int money = 10;
+
 
     public void TakeDamage(int dmg) {
         health -= dmg;
