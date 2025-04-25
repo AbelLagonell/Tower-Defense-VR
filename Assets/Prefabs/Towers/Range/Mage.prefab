@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5392317015091170154, guid: ea27af7d9a0687a4fa48958fd04c87e1, type: 3}
+      propertyPath: upgradeSprite
+      value: 
+      objectReference: {fileID: 1966606279, guid: d01903c43794ea9438b46eb688f8f180, type: 3}
     - target: {fileID: 5579356276056813145, guid: ea27af7d9a0687a4fa48958fd04c87e1, type: 3}
       propertyPath: m_Name
       value: Mage
@@ -63,7 +67,11 @@ PrefabInstance:
     - target: {fileID: 6280898740020752291, guid: ea27af7d9a0687a4fa48958fd04c87e1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -997806314, guid: 6c930fd45c96071489dcc7bccd05f7b5, type: 3}
+      objectReference: {fileID: -193502875, guid: 6c930fd45c96071489dcc7bccd05f7b5, type: 3}
+    - target: {fileID: 6280898740020752291, guid: ea27af7d9a0687a4fa48958fd04c87e1, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6280898740020752291, guid: ea27af7d9a0687a4fa48958fd04c87e1, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
