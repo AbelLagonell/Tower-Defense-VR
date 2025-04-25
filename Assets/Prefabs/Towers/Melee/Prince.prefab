@@ -67,7 +67,11 @@ PrefabInstance:
     - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1950943021, guid: 247388909b843f14e9dd74e6dd4ac4a0, type: 3}
+      objectReference: {fileID: -107470582, guid: 247388909b843f14e9dd74e6dd4ac4a0, type: 3}
+    - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4654617297807652247, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -88,6 +92,10 @@ PrefabInstance:
       propertyPath: hitboxSize.z
       value: 0.2
       objectReference: {fileID: 0}
+    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: upgradeSprite
+      value: 
+      objectReference: {fileID: 1155909735, guid: 1e4cf6e759cf5ec4fa79d499036989a4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
