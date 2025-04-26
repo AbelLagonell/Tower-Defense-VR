@@ -1,8 +1,8 @@
 using UnityEngine;
 
 public abstract class Entity : MonoBehaviour {
-    public int health = 10;
-    public int maxHealth = 10;
+    public static int health = 10;
+    public static int maxHealth = 10;
 
     public static int money = 10;
 

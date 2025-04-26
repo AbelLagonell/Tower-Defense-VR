@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 470372916268504660}
   - component: {fileID: 2665671791619463362}
   - component: {fileID: 4410690344384712251}
+  - component: {fileID: 5094021572368434687}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -257,6 +258,21 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &5094021572368434687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220576576923294232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a9fbe921db7a546bf1d7af6842f1ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  display: {fileID: 4410690344384712251}
+  type: 1
+  IsExt: 1
 --- !u!1 &462324309531079580
 GameObject:
   m_ObjectHideFlags: 0
@@ -2308,6 +2324,7 @@ GameObject:
   - component: {fileID: 8163504123540438114}
   - component: {fileID: 3912640064044933335}
   - component: {fileID: 6489326340950471587}
+  - component: {fileID: 6286705707667678221}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -2362,7 +2379,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Health: x'
+  m_text: 'Health: '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e27e9f82c20033944a232de039f302c0, type: 2}
   m_sharedMaterial: {fileID: 3782366464979224289, guid: e27e9f82c20033944a232de039f302c0, type: 2}
@@ -2433,6 +2450,21 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &6286705707667678221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3801483098811445988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a9fbe921db7a546bf1d7af6842f1ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  display: {fileID: 6489326340950471587}
+  type: 0
+  IsExt: 1
 --- !u!1 &3955540730543547405
 GameObject:
   m_ObjectHideFlags: 0
