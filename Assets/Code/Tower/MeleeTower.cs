@@ -42,4 +42,14 @@ public class MeleeTower : BaseTower {
             Attack();
         }
     }
+
+    public void ChangeHitboxSizeX(float size) {
+        hitboxSize.x = size;
+    }
+    public void ChangeHitboxSizeY(float size) {
+        hitboxSize.y = size;
+    }
+    public void ChangeHitboxSizeZ(float size) {
+        hitboxSize.z = size;
+    }
 }

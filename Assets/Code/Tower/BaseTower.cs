@@ -10,7 +10,6 @@ using Vector3 = UnityEngine.Vector3;
 public abstract class BaseTower : Entity {
     public float detectionRadius = 10;
     public int damage = 1;
-    public int cost = 1;
     public float attackCooldown = 1f; //in seconds
     public float currentAttackCooldown;
     public GameObject spawnedObject;
