@@ -17,7 +17,7 @@ public class Hitbox : MonoBehaviour {
         other.GetComponent<BaseEnemy>().TakeDamage(damage);
         if (destroyOnHit) Destroy(gameObject);
     }
-
+    
     private void OnDrawGizmos() {
         // Get the collider if we don't have it yet
         if (myCollider == null) {
