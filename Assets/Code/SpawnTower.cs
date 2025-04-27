@@ -8,10 +8,11 @@ public class SpawnTower : MonoBehaviour
 
     public void Spawn()
     {
-        if(Entity.money >= Price)
+        Player p = FindAnyObjectByType<Player>();
+        if(p.money >= Price)
         {
             Instantiate(Towers[TowerType],transform.position,transform.rotation);
-            Entity.money -= Price;
+            p.money -= Price;
         }
     }
 }
