@@ -11,33 +11,33 @@ public class DisplayHealth : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
     }
 
     // Update is called once per frame
     void Update()
-    {
+    { 
+        Player temp = FindAnyObjectByType<Player>();
         //0 to display health, 1 to display money
         switch(type)
         {
             case 0:
                 if(IsExt)
                 {
-                    display.text = "Health: " + Entity.health.ToString();
+                    display.text = "Health: " + temp.health.ToString();
                 }
                 else
                 {
-                    display.text = Entity.health.ToString();
+                    display.text = temp.health.ToString();
                 }
             break;
             case 1:
                 if(IsExt)
                 {
-                    display.text = "Money: " + Entity.money.ToString();
+                    display.text = "Money: " + temp.money.ToString();
                 }
                 else
                 {
-                    display.text = Entity.money.ToString();
+                    display.text = temp.money.ToString();
                 }
             break;
         }
