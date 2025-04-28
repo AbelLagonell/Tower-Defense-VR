@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Numerics;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public enum EnemyType {
     Base,
@@ -123,6 +124,10 @@ public class WaveSpawner : MonoBehaviour {
         
         // Increment to next wave
         currentWave++;
+
+        if (currentWave >= waveSets.Length) {
+            StartCoroutine(ChangeScene());
+        }
         
         // If continuous waves, automatically trigger the next wave
         if (continuousWaves && currentWave < waveSets.Length) {
@@ -131,6 +136,11 @@ public class WaveSpawner : MonoBehaviour {
         } else {
             Debug.Log("Last enemy defeated! Ready for next wave.");
         }
+    }
+
+    private IEnumerator ChangeScene() {
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("Win");
     }
     
     private IEnumerator WaitAndStartNextWave() {

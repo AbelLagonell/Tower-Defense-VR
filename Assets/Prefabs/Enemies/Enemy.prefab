@@ -151,6 +151,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 10
   maxHealth: 10
+  money: 5
   path: {fileID: 0}
   poi: []
   currentTarget: 0

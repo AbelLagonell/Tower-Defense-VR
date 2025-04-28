@@ -47,13 +47,54 @@ MonoBehaviour:
   waveSets:
   - sets:
     - type: 0
-      enemyAmount: 3
+      enemyAmount: 5
   - sets:
+    - type: 0
+      enemyAmount: 8
+  - sets:
+    - type: 0
+      enemyAmount: 10
     - type: 1
       enemyAmount: 2
   - sets:
+    - type: 0
+      enemyAmount: 8
+    - type: 1
+      enemyAmount: 5
+  - sets:
+    - type: 1
+      enemyAmount: 10
+  - sets:
+    - type: 0
+      enemyAmount: 10
     - type: 2
-      enemyAmount: 1
+      enemyAmount: 2
+  - sets:
+    - type: 0
+      enemyAmount: 8
+    - type: 1
+      enemyAmount: 4
+    - type: 2
+      enemyAmount: 4
+  - sets:
+    - type: 1
+      enemyAmount: 6
+    - type: 2
+      enemyAmount: 6
+  - sets:
+    - type: 1
+      enemyAmount: 10
+    - type: 0
+      enemyAmount: 5
+    - type: 2
+      enemyAmount: 5
+  - sets:
+    - type: 0
+      enemyAmount: 10
+    - type: 1
+      enemyAmount: 10
+    - type: 2
+      enemyAmount: 10
   timeBetweenWaves: 5
   timeBetweenSpawns: 0.75
   enemyTypes:
