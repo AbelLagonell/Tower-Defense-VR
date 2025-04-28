@@ -454,8 +454,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 10
   maxHealth: 10
+  money: 0
   detectionRadius: 10
-  damage: 1
+  damage: 2
   attackCooldown: 1
   currentAttackCooldown: 0
   spawnedObject: {fileID: 4332806188010617636, guid: 911f669788cf9e34ab25b1d22e417f94, type: 3}
@@ -473,9 +474,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f30677c2d26742e43a4169918eab2875, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseCost: 1
-  upgradeCost: 2
-  upgradeDamage: 1
+  baseCost: 10
+  upgradeCost: 15
+  upgradeDamage: 2
   upgradeRange: 5
   upgradeCooldown: 0.5
   onUpgrade:
