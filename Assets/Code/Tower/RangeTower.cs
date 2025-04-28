@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class RangeTower : BaseTower {
     public float projectileSpeed = 1;
-    
+    public bool isMagic;
 
     protected override void Attack() {
         if (currentAttackCooldown > 0) return;
@@ -16,6 +16,16 @@ public class RangeTower : BaseTower {
 
         Rigidbody rb = temp.GetComponent<Rigidbody>();
         rb.linearVelocity = transform.forward * projectileSpeed;
+
+        if(isMagic)
+        {
+            AM.PlaySFX("Magic");
+        }
+        else
+        {
+            AM.PlaySFX("Arrow1");
+        }
+
 
     }
 

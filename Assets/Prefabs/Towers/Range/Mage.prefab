@@ -13,6 +13,10 @@ PrefabInstance:
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 473341916933929108, guid: ea27af7d9a0687a4fa48958fd04c87e1, type: 3}
+      propertyPath: isMagic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473341916933929108, guid: ea27af7d9a0687a4fa48958fd04c87e1, type: 3}
       propertyPath: detectionRadius
       value: 15
       objectReference: {fileID: 0}
