@@ -27,7 +27,6 @@ public class BaseEnemy : Entity {
         _agent = GetComponent<NavMeshAgent>();
         _agent.destination = poi[currentTarget].position;
         _agent.speed = speed;
-        money = 1 + (int)type;
     }
 
     private void Update() {
@@ -49,6 +48,7 @@ public class BaseEnemy : Entity {
         if (health <= 0) {
             Player player = FindAnyObjectByType<Player>();
             player.money += money;
+            Debug.Log(money + " money given, total: " + player.money);
         }
         OnEnemyDeath?.Invoke();
         Destroy(gameObject);
