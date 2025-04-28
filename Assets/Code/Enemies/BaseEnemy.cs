@@ -1,8 +1,6 @@
 using System;
-using Mono.Cecil.Cil;
 using UnityEngine;
 using UnityEngine.AI;
-using UnityEngine.Events;
 
 [RequireComponent(typeof(Collider), typeof(NavMeshAgent))]
 public class BaseEnemy : Entity {
@@ -30,7 +28,7 @@ public class BaseEnemy : Entity {
     }
 
     private void Update() {
-        if (!(_agent.remainingDistance < 0.2)) return;
+        if (!(_agent.remainingDistance < 1)) return;
         currentTarget++;
         if (currentTarget>poi.Length-1) currentTarget = 0;
         _agent.destination = poi[currentTarget].position;

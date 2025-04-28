@@ -49,8 +49,40 @@ MonoBehaviour:
   sfxMixerGroup: {fileID: -8341261426449712375, guid: ef29a5ae8223120488cde9df07af4ffd, type: 2}
   bgmMixerGroup: {fileID: 1288153089762420660, guid: ef29a5ae8223120488cde9df07af4ffd, type: 2}
   uiMixerGroup: {fileID: -3872306114784980080, guid: ef29a5ae8223120488cde9df07af4ffd, type: 2}
-  bgmSounds: []
-  sfxSounds: []
+  bgmSounds:
+  - name: Background
+    clip: {fileID: 8300000, guid: f938e7de3704e7e47a620f3a5d44a206, type: 3}
+    volume: 0
+    pitch: 0
+  - name: Final
+    clip: {fileID: 8300000, guid: 262d4f949b0251141b5eac8e9ac86c7a, type: 3}
+    volume: 0
+    pitch: 0
+  sfxSounds:
+  - name: Arrow1
+    clip: {fileID: 8300000, guid: cc1729a36a2aed747ba752c379d096db, type: 3}
+    volume: 0
+    pitch: 0
+  - name: Arrow2
+    clip: {fileID: 8300000, guid: da9e3594922cce941bfa1fe2e7d41ef4, type: 3}
+    volume: 0
+    pitch: 0
+  - name: Magic
+    clip: {fileID: 8300000, guid: 4ad0e91c2bf5c5143822ca37e08e06aa, type: 3}
+    volume: 0
+    pitch: 0
+  - name: Sword1
+    clip: {fileID: 8300000, guid: 21ce71ecf782c5142a44e293a9303b20, type: 3}
+    volume: 0
+    pitch: 0
+  - name: Sword2
+    clip: {fileID: 8300000, guid: b02b15cfd7e011c40897d63656b8e2f5, type: 3}
+    volume: 0
+    pitch: 0
+  - name: Sword3
+    clip: {fileID: 8300000, guid: ecd9a822a6604974b8635a9e9573e928, type: 3}
+    volume: 0
+    pitch: 0
   uiSounds: []
   initialPoolSize: 10
   maxPoolSize: 30
