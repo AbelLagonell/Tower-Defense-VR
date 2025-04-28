@@ -155,11 +155,31 @@ public class WaveSpawner : MonoBehaviour {
     }
     
     public void StartNextWave() {
-        if (!isSpawning && currentWave < waveSets.Length && lastBaseEnemy == null && currentWaveEnemies.Count == 0) {
-            waveStart = true;
-        } else {
-            Debug.Log("Cannot start next wave until all enemies are defeated!");
+        if (isSpawning) {
+            Debug.Log($"Currently Spawning Wave {currentWave}");
+            return;
         }
+
+        if (currentWave >= waveSets.Length) {
+            Debug.Log("All waves completed!");
+            return;
+        }
+
+        if (lastBaseEnemy != null) {
+            Debug.Log("Enemies to be defeated before starting next wave...");
+            return;
+        }
+
+        foreach (var enemy in currentWaveEnemies) {
+            if (enemy != null) {
+                Debug.Log("Not All Enemies Defeated");
+                return;
+            }
+        }
+        
+        waveStart = true;
+        lastBaseEnemy = null;
+        currentWaveEnemies.Clear();
     }
     
     public void SetContinuousWaves(bool isContinuous) {

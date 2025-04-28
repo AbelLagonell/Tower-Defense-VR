@@ -164,6 +164,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
-  destroyOnHit: 0
+  destroyOnHit: 1
   speed: 3
   maxDuration: 10

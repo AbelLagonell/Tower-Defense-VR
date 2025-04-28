@@ -101,7 +101,7 @@ MonoBehaviour:
   - {fileID: 6021692695015627764, guid: 7c0f77f4b2df7b146bc4807ace0a4c5a, type: 3}
   - {fileID: 109750779903894042, guid: e68c2f36dda972744a889a8074904c14, type: 3}
   - {fileID: 1815181768166602853, guid: 5a925fded93019143aa84fbd277405ad, type: 3}
-  gameStart: 0
+  gameStart: 1
   continuousWaves: 0
   waveStart: 0
   currentWave: 0
