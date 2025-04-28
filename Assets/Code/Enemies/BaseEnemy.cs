@@ -1,8 +1,6 @@
 using System;
-using Mono.Cecil.Cil;
 using UnityEngine;
 using UnityEngine.AI;
-using UnityEngine.Events;
 
 [RequireComponent(typeof(Collider), typeof(NavMeshAgent))]
 public class BaseEnemy : Entity {
@@ -27,11 +25,10 @@ public class BaseEnemy : Entity {
         _agent = GetComponent<NavMeshAgent>();
         _agent.destination = poi[currentTarget].position;
         _agent.speed = speed;
-        money = 1 + (int)type;
     }
 
     private void Update() {
-        if (!(_agent.remainingDistance < 0.2)) return;
+        if (!(_agent.remainingDistance < 1)) return;
         currentTarget++;
         if (currentTarget>poi.Length-1) currentTarget = 0;
         _agent.destination = poi[currentTarget].position;
@@ -49,6 +46,7 @@ public class BaseEnemy : Entity {
         if (health <= 0) {
             Player player = FindAnyObjectByType<Player>();
             player.money += money;
+            Debug.Log(money + " money given, total: " + player.money);
         }
         OnEnemyDeath?.Invoke();
         Destroy(gameObject);

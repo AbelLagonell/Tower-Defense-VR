@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class RangeTower : BaseTower {
     public float projectileSpeed = 1;
-    
+    public bool isMagic;
 
     protected override void Attack() {
         if (currentAttackCooldown > 0) return;
@@ -17,12 +17,22 @@ public class RangeTower : BaseTower {
         Rigidbody rb = temp.GetComponent<Rigidbody>();
         rb.linearVelocity = transform.forward * projectileSpeed;
 
+        if(isMagic)
+        {
+            AM.PlaySFX("Magic");
+        }
+        else
+        {
+            AM.PlaySFX("Arrow1");
+        }
+
+
     }
 
     private void OnTriggerStay(Collider other) {
         if (!active) return;
         if (!other.CompareTag("Enemy")) return;
-        transform.LookAt(other.transform.position + Vector3.up);
+        transform.LookAt(other.transform.position + Vector3.up*0.5f);
         
         Attack();
         Debug.DrawRay(transform.position, transform.forward * (detectionRadius * transform.localScale.x), Color.red);

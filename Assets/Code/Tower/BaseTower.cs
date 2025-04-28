@@ -16,12 +16,14 @@ public abstract class BaseTower : Entity {
     public bool active = false;
    //Set to the direction the enemy is in
     private XRGrabInteractable interactable;
+    private protected AudioManager AM;
 
     public void Start() {
         GetComponent<SphereCollider>().radius = detectionRadius;
         interactable = GetComponent<XRGrabInteractable>();
         interactable.selectEntered.AddListener(OnSocketEnter);
         interactable.selectExited.AddListener(OnSocketExit);
+        AM = FindAnyObjectByType<AudioManager>();
     }
 
     private void OnDrawGizmos() {

@@ -16,6 +16,7 @@ public class MeleeTower : BaseTower {
         currentAttackCooldown = attackCooldown;
         var temp = SpawnHitbox();
         Destroy(temp, attackDuration);
+        AM.PlaySFX("Sword1");
     }
 
     private GameObject SpawnHitbox() {

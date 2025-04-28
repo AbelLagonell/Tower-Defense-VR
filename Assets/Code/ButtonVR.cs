@@ -41,8 +41,8 @@ public class ButtonVR : MonoBehaviour
     public void StartWave()
     {
         //Start wave
+        Debug.Log("Starting Next Wave");
         WaveSpawner waveSpawner = FindAnyObjectByType<WaveSpawner>();
         waveSpawner.StartNextWave();
-        Debug.Log("Starting Next Wave");
     }
 }
