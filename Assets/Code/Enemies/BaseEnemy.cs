@@ -31,7 +31,7 @@ public class BaseEnemy : Entity {
     }
 
     private void Update() {
-        if (!(_agent.remainingDistance < 0.1)) return;
+        if (!(_agent.remainingDistance < 0.2)) return;
         currentTarget++;
         if (currentTarget>poi.Length-1) currentTarget = 0;
         _agent.destination = poi[currentTarget].position;

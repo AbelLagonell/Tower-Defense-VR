@@ -78,19 +78,31 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: damage
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.x
-      value: 0.7
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.y
-      value: 0.7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7247348208434398767, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: hitboxSize.z
-      value: 0.2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: baseCost
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: upgradeCost
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
+      propertyPath: upgradeDamage
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7847675291540035183, guid: e1d7e43b4da0ef847a51e7625a10f64c, type: 3}
       propertyPath: upgradeSprite

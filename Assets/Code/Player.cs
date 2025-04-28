@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 
 [RequireComponent(typeof(BoxCollider))]
@@ -8,6 +9,7 @@ public class Player : Entity {
 
     protected override void OnDeath() {
         Debug.Log("GAME OVER");
+        SceneManager.LoadScene("Lost");
     }
 
     private void OnDrawGizmos() {
